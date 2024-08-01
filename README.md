@@ -6,7 +6,10 @@ Dependencies
 ===============================
 
 - Python==3.12.*, fastapi, uvicorn, httpx, pytest, pytest-cov
-- Docker (https://www.docker.com/products/docker-desktop) (optional)
+- Docker (https://www.docker.com/products/docker-desktop)
+  - Windows Tutorial: https://docs.docker.com/desktop/install/windows-install/
+  - Linux Tutorial: https://docs.docker.com/desktop/install/linux-install/
+  - MacOS Tutorial: https://docs.docker.com/desktop/install/mac-install/
 - API key from: OpenWeatherMap (https://openweathermap.org/)
 
 Running
