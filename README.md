@@ -49,3 +49,8 @@ Testing
 - With `venv activated`, navigate to the `root of the project`.
 - Run the following command: 
   - `pytest`
+
+Usage
+===============================
+- You can check the documention for the `endpoints` in the following link:
+  - http://127.0.0.1:8000/docs or http://localhost:8000/docs
