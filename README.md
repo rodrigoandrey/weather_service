@@ -54,3 +54,12 @@ Usage
 ===============================
 - You can check the documention for the `endpoints` in the following link:
   - http://127.0.0.1:8000/docs or http://localhost:8000/docs
+
+About
+===============================
+- Why FASTApi?
+  - I chose to use the FASTApi as a chance to explore this framework also because it already has built-in asynchronous behavior. As being fast to develop and performant. Another positive point for choosing this framework was the use of subtasks to be able to perform tasks in the background.
+- HTTPX
+  - To provide the async calls for the endpoints, since the excellent and popular "requests" library does not allow this feature
+- Pytest
+  - Because it's already easily integrated with FASTApi
